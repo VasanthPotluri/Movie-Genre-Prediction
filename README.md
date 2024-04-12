@@ -5,3 +5,8 @@ In this repository i have created a Movies Genre Classification project in machi
 
 # Technology used in Project :hotsprings:
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="400">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/seaborn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/python_nltk.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/wordcloud.png" width="200">
+
+## ScreenShot :camera_flash:
+![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/1.png) <br>
+  - WordCloud
+<br>
