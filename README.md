@@ -8,5 +8,4 @@ In this repository i have created a Movies Genre Classification project in machi
 
 ## ScreenShot :camera_flash:
 ![](https://github.com/yogeshnile/Movies-Genre-Classification/blob/master/Images/1.png) <br>
-  - WordCloud
 <br>
